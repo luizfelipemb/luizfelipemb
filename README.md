@@ -7,7 +7,7 @@ Unity C# developer since 2019, with a passion for creating various types of game
 
 ### Education 🎓
 **Bachelor in Games & Apps Development** – *2018 - 2021*
-[IADE – Lisbon, Portugal](https://www.iade.pt/)
+[IADE – Lisbon, Portugal](https://www.iade.europeia.pt/en/)
 - Classes were given in English.
 - Lua, C#, and C++ were the main programming languages.
 - Unity and Unreal were the main Game Engines.
@@ -21,7 +21,7 @@ Unity C# developer since 2019, with a passion for creating various types of game
 
 ### Experience 👨‍💻
 **Unity Developer** – *April 2022 – Present*
-[Vision Box](https://www.visionbox.com/) – Lisbon, Portugal
+[Vision Box](https://www.vision-box.com/) – Lisbon, Portugal
 - Created avatars that interact with people in various airports.
 - Worked on different projects involving Git, Automation Servers, and Server Repository Setup.
 - Developed Editor Tools to improve the development and speed of the workflow.
