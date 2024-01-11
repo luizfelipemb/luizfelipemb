@@ -53,17 +53,23 @@ C# Unity Projects 🚀
 - *December 2023 – Present*
 - Unity C# Card Game where the main goal is to build a good code architecture where new game features won't break the existing code.
 
- #### [Don't be Fair](https://lucasmorgado.itch.io/dontbefair)
+#### [Don't be Fair](https://lucasmorgado.itch.io/dontbefair)
 - A 2D strategy game. The game was done using Unity (C#) with a partner in 1 weekend during an online game jam.
 
-#### [Gari Simulator](https://luizfelipemb.itch.io/gari-simulator)
-- A 2D action strategy game. The game was done using Unity (C#) with a partner in 1 week during an online game jam.
+#### [Dice Mage](https://lucasmorgado.itch.io/dicemage)
+- A 2D action strategy game. The game was done using Unity (C#) with a partner in 1 weekend during an online game jam.
   
 #### [Between Us](https://luizfelipemb.itch.io/between-us)
-- Unity C# 2D Online Multiplayer Game inspired by Among Us. The game was done alone during a few months. 
+- Unity C# 2D Online Multiplayer Game inspired by Among Us. The game was done alone during a few months.
 
 #### [Throwing Buildings](https://luizfelipemb.itch.io/throwing-buildings)
 - Unity C# 3D Hyper Casual Mobile Game done alone during a week. Android and Browser versions were implemented.
+  
+#### [Gari Simulator](https://luizfelipemb.itch.io/gari-simulator)
+- A 2D action strategy game. The game was done using Unity (C#) with a partner in 1 week during an online game jam.
+  
+#### [Heroes Agency](https://luizfelipemb.itch.io/heroes-agency)
+- A 2D management strategy game. The game was done using Unity (C#) alone in 1 week during an online game jam.
 
 #### [SPYRE - Finalist of PlayStation Talents 2020](https://luizfelipemb.itch.io/spyre)
 - Unity C# 3D FPS Adventure game done with a group of one other programmer and 6 designers. GitHub was used for version control, and ClickUp for project management. FSM was used for the enemies’ behaviors.
