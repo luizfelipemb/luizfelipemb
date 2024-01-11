@@ -4,7 +4,7 @@
 
 ### Hi, I'm Luiz Felipe Bustamante 👋 and I'm passionate about creating games using Unity and C#.
 
-**Summary**: 
+### Summary
 Unity C# developer since 2019, with a passion for creating various types of games. I have experience in developing multiplayer, story-driven, hyper-casual, mobile, and action games. While I recently ventured into Unreal Engine 5 and C++, I discovered that C# offers the powerfulness and simplicity I require for constructing solid code architectures in my games. My philosophy is that if someone else can do something, with enough time and effort, I can do it just as well. Therefore, I never give up on pursuing what I want.
 
 ### Experience 👨‍💻
