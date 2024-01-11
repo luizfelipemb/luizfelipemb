@@ -19,7 +19,7 @@ Unity C# developer since 2019, with a passion for creating various types of game
 - AI classes were the main focus.
 
 
-### Experience 👨‍💻
+### Experiences 👨‍💻
 **Unity Developer** – *April 2022 – Present*
 [Vision Box](https://www.vision-box.com/) – Lisbon, Portugal
 - Created avatars that interact with people in various airports.
