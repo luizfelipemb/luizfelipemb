@@ -2,9 +2,10 @@
 ![GitHub Followers](https://img.shields.io/github/followers/your_username?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/your_username?style=social)
 
-### Hi, I'm [Your Name] 👋 and I'm passionate about creating games using Unity and C#.
+### Hi, I'm Luiz Felipe Bustamante 👋 and I'm passionate about creating games using Unity and C#.
 
-**Summary**: Unity C# developer since 2019, with a passion for creating various types of games. I have experience in developing multiplayer, story-driven, hyper-casual, mobile, and action games. While I recently ventured into Unreal Engine 5 and C++, I discovered that C# offers the powerfulness and simplicity I require for constructing solid code architectures in my games. My philosophy is that if someone else can do something, with enough time and effort, I can do it just as well. Therefore, I never give up on pursuing what I want.
+**Summary**: 
+Unity C# developer since 2019, with a passion for creating various types of games. I have experience in developing multiplayer, story-driven, hyper-casual, mobile, and action games. While I recently ventured into Unreal Engine 5 and C++, I discovered that C# offers the powerfulness and simplicity I require for constructing solid code architectures in my games. My philosophy is that if someone else can do something, with enough time and effort, I can do it just as well. Therefore, I never give up on pursuing what I want.
 
 ### Experience 👨‍💻
 **Unity Developer** – *April 2022 – Present*
