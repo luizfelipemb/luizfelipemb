@@ -1,7 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=36b812)
-![GitHub Followers](https://img.shields.io/github/followers/your_username?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/your_username?style=social)
-
 ### Hi, I'm Luiz Felipe Bustamante 👋 and I'm passionate about creating games using Unity and C#.
 
 ### Summary
