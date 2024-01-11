@@ -3,9 +3,12 @@
 
 ### Summary
 Unity C# developer since 2019, with a passion for creating various types of games. While I recently ventured into Unreal Engine 5 and C++, I discovered that C# offers the powerfulness and simplicity I require for constructing solid code architectures in my games.
-
-
-### Education 🎓
+ 
+<details>
+  <summary>
+Education 🎓
+  </summary>
+  
 **Bachelor in Games & Apps Development** – *2018 - 2021*
 [IADE – Lisbon, Portugal](https://www.iade.europeia.pt/en/)
 - Classes were given in English.
@@ -17,9 +20,13 @@ Unity C# developer since 2019, with a passion for creating various types of game
 - One semester only, counted for the last semester in IADE.
 - Unreal was the engine used for the project.
 - AI classes were the main focus.
+</details>
 
-
-### Experiences 👨‍💻
+<details>
+  <summary>
+Experiences 👨‍💻
+    </summary>
+  
 **Unity Developer** – *April 2022 – Present*
 [Vision Box](https://www.vision-box.com/) – Lisbon, Portugal
 - Created avatars that interact with people in various airports.
@@ -35,9 +42,13 @@ Unity C# developer since 2019, with a passion for creating various types of game
 **Work Experience in the USA** – *2021*
 Lift Operator in Lewisberry
 - Worked in a ski resort, dealing with customers and machineries.
+</details>
 
-
-### C# Unity Projects 🚀
+<details>
+  <summary>
+C# Unity Projects 🚀
+  </summary>
+  
 #### [Marvel Snap Like Game](https://github.com/luizfelipemb/MSnapLike)
 - *December 2023 – Present*
 - Unity C# Card Game where the main goal is to build a good code architecture where new game features won't break the existing code.
@@ -59,9 +70,13 @@ Lift Operator in Lewisberry
   
 #### [Wasteland Run - A Shoot 'em up Arcade Game!](https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun)
 - 2D game done in a group of 2 programmers and 3 designers in a presential GameJam in IADE using Unity (C#). The game was improved afterward by me and released on the Play Store.
+</details>
 
-
-### C++ Unreal Projects 🎮
+<details>
+  <summary>
+C++ Unreal Projects 🎮
+    </summary>
+  
 #### [Out of Nowhere](https://store.steampowered.com/app/2218620/Out_of_Nowhere/)
 -  *April 2022 – Present*
 -  Unreal 5 C++ 3D Adventure Horror game being done alone.
@@ -74,11 +89,16 @@ Lift Operator in Lewisberry
 
 #### [Colouruzzle](https://luizfelipemb.itch.io/colouruzzle)
 - 3D puzzle platformer shooter game made for the online Mix And Game Jam 2020. The game was done in Unreal (C++) in a group of 4 programmers.
+</details>
 
-
-### Other Projects 🎮
+<details>
+  <summary>
+Other Projects 🎮
+  </summary>
+  
 #### Artistic Green
 - Management Game done in 4 months with a partner using JavaScript, HTML, CSS, and MySQL database to work.
 
 #### Viking's Glory
 - 2D Arcade Style Game done alone using LÖVE framework in Lua in 4 months.
+</details>
