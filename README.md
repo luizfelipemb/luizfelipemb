@@ -38,41 +38,41 @@ Lift Operator in Lewisberry
 
 
 ### C# Unity Projects 🚀
-#### Marvel Snap Like Game
+#### [Marvel Snap Like Game](https://github.com/luizfelipemb/MSnapLike)
 - *December 2023 – Present*
-  Unity C# Card Game where the main goal is to build a good code architecture where new game features won't break the existing code.
+- Unity C# Card Game where the main goal is to build a good code architecture where new game features won't break the existing code.
 
-#### Between Us
+#### [Between Us](https://luizfelipemb.itch.io/between-us)
 - Unity C# 2D Online Multiplayer Game inspired by Among Us. The game was done alone during a few months.
 
-#### Throwing Buildings
-- Unity C# 3D Hyper Casual Mobile Game done alone during a week.
+#### [Throwing Buildings](https://luizfelipemb.itch.io/throwing-buildings)
+- Unity C# 3D Hyper Casual Mobile Game done alone during a week. Android and Browser versions were implemented.
 
-#### SPYRE - Finalist of PlayStation Talents 2020
+#### [SPYRE - Finalist of PlayStation Talents 2020](https://luizfelipemb.itch.io/spyre)
 - Unity C# 3D FPS Adventure game done with a group of one other programmer and 6 designers. GitHub was used for version control, and ClickUp for project management. FSM was used for the enemies’ behaviors.
 
 #### Repairing Chaos
 - 2D game done in a group of 4 programmers in a presential GameJam in IADE using Unity (C#).
   
-#### Hooked by Huck
+#### [Hooked by Huck](https://luizfelipemb.itch.io/hooked-by-huck)
 - 2D game and companion app done with a partner using Unity (C#) and Android Studio. MySQL was used to create a database to store the players' information and sync them between both applications.
   
-#### Wasteland Run - A Shoot 'em up Arcade Game!
+#### [Wasteland Run - A Shoot 'em up Arcade Game!](https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun)
 - 2D game done in a group of 2 programmers and 3 designers in a presential GameJam in IADE using Unity (C#). The game was improved afterward by me and released on the Play Store.
 
 
 ### C++ Unreal Projects 🎮
-#### Out of Nowhere 🐕‍🦺 *April 2022 – Present*
-
+#### [Out of Nowhere](https://store.steampowered.com/app/2218620/Out_of_Nowhere/)
+-  *April 2022 – Present*
 -  Unreal 5 C++ 3D Adventure Horror game being done alone.
 
 #### Runnin'Hot
 - A fast-paced action platformer with parkouring elements done in Unreal (C++). The game was done in a group of other 2 programmers, 4 designers, and a sound producer during 4 months. Github was used for version control and ClickUp for project management.
 
-#### After Dark
+#### [After Dark](https://luizfelipemb.itch.io/after-dark)
 - Online Multiplayer Coop Horror 3D game done in Unreal (C++) with a partner for 4 months. The game was updated later to add more features and fix bugs. Github was used for version control.
 
-#### Colouruzzle
+#### [Colouruzzle](https://luizfelipemb.itch.io/colouruzzle)
 - 3D puzzle platformer shooter game made for the online Mix And Game Jam 2020. The game was done in Unreal (C++) in a group of 4 programmers.
 
 
