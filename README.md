@@ -41,7 +41,7 @@ Experiences 👨‍💻
 
 **Work Experience in the USA** – *2021*
 Lift Operator in Lewisberry
-- Worked in a ski resort, dealing with customers and machineries.
+- Worked for 3 months in a ski resort, dealing with customers and machineries.
 </details>
 
 <details>
