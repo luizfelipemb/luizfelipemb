@@ -90,7 +90,7 @@ C++ Unreal Projects 🎮
     </summary>
   
 #### [Out of Nowhere](https://store.steampowered.com/app/2218620/Out_of_Nowhere/)
--  *April 2022 – Present*
+-  *April 2022 – February 2024*
 -  Unreal 5 C++ 3D Adventure Horror game being done alone.
 
 #### Runnin'Hot
