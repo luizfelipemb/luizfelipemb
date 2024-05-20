@@ -107,10 +107,16 @@ C++ Unreal Projects 🎮
   <summary>
 Other Projects 🎮
   </summary>
-  
+ 
+#### [Ores SDL](https://github.com/luizfelipemb/OresSDL)
+- C++ SDL Ores Game
+ 
 #### Artistic Green
 - Management Game done in 4 months with a partner using JavaScript, HTML, CSS, and MySQL database to work.
 
 #### Viking's Glory
 - 2D Arcade Style Game done alone using LÖVE framework in Lua in 4 months.
+
 </details>
+
+
