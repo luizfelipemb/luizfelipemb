@@ -30,14 +30,6 @@ Experiences 👨‍💻
 - Developed Editor Tools to improve the development and speed of the workflow.
 - Implemented REST functionalities.
 - Conducted tests for Unreal Engine 5 migration.
-
-**Game Developer Freelancer Job** – *2021*
-[Coala Filmes, Rio de Janeiro](https://coalafilmes.com.br/)
-- 2 weeks working on a game for Coala Filmes. The game was almost done, so my job was to finish it by fixing bugs, finalizing the levels, and improving some mechanics. Unity and Github were used.
-
-**Work Experience in the USA** – *2021*
-Lift Operator in Lewisberry
-- Worked for 3 months in a ski resort, dealing with customers and machineries.
 </details>
 
 <details>
