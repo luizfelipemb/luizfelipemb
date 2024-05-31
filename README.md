@@ -1,9 +1,5 @@
 ### Hi, I'm Luiz Felipe Bustamante 👋 and I'm a game developer!
 
-
-### Summary
-Unity C# developer since 2019, with a passion for creating various types of games. While I recently ventured into Unreal Engine 5 and C++, I discovered that C# offers the powerfulness and simplicity I require for constructing solid code architectures in my games.
- 
 <details>
   <summary>
 Education 🎓
