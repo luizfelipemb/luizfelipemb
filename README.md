@@ -95,6 +95,9 @@ C++ Unreal Projects 🎮
   <summary>
 Other Projects 🎮
   </summary>
+  
+#### [Mito Engine 2D](https://github.com/luizfelipemb/MitoEngine2D)
+- C++ SDL Game Engine
  
 #### [Ores SDL](https://github.com/luizfelipemb/OresSDL)
 - C++ SDL Ores Game
