@@ -38,7 +38,7 @@ C# Unity Projects 🚀
   </summary>
   
 #### [Marvel Snap Like Game](https://github.com/luizfelipemb/MSnapLike)
-- *December 2023 – Present*
+- *December 2023 – February 2024*
 - Unity C# Card Game where the main goal is to build a good code architecture where new game features won't break the existing code.
 
 #### [Don't be Fair](https://lucasmorgado.itch.io/dontbefair)
@@ -76,6 +76,10 @@ C# Unity Projects 🚀
   <summary>
 C++ Unreal Projects 🎮
     </summary>
+  
+#### [Zombie Shooter Prototype](https://github.com/luizfelipemb/ZombieShooter-MultiplayerC-Unreal5-Source)
+-  *October 2024 – February 2025*
+- Unreal 5 C++ Zombie Co-op Multiplayer Prototype done alone.
   
 #### [Out of Nowhere](https://store.steampowered.com/app/2218620/Out_of_Nowhere/)
 -  *April 2022 – February 2024*
