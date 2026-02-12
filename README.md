@@ -22,7 +22,7 @@
         <img src="https://private-user-images.githubusercontent.com/57150454/549087939-a9f5d3ed-f791-414c-ae61-c6ee74db1f2c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA5MzI4NzUsIm5iZiI6MTc3MDkzMjU3NSwicGF0aCI6Ii81NzE1MDQ1NC81NDkwODc5MzktYTlmNWQzZWQtZjc5MS00MTRjLWFlNjEtYzZlZTc0ZGIxZjJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjEyVDIxNDI1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkMGFkNTJjNTQ1YTQxMDY3ZmU2MGMxOTk4ODI2YWFmODMyY2IwOWY1MWVlMzk0MmMzMTM5YzZiZjMyYzlmZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NdkNf8K_TAL9uhswTFQEJVJ0KSBk3AElYySycw88rwc" width="100%" alt="Zombie Shooter" />
       </a>
       <br />
-      <p align="center"><b><a href="https://github.com/luizfelipemb/ZombieShooter-MultiplayerC-Unreal5-Source">Zombie Shooter Prototype (UE5)</a></b></p>
+      <p align="center"><b><a href="https://github.com/luizfelipemb/ZombieShooter-MultiplayerC-Unreal5-Source">Zombie Shooter Prototype</a></b></p>
       <p>Unreal 5 C++ Co-op Multiplayer prototype. Focused on decoupled, component-based architecture designed for multiplayer scalability.</p>
     </td>
     <td width="50%" valign="top">
