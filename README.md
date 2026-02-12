@@ -88,24 +88,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">
-        <img src="IMAGE_URL" width="100%" alt="Wasteland Run" />
-      </a>
-      <br />
-      <p align="center"><b><a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">Wasteland Run (Play Store)</a></b></p>
-      <p>2D Shoot 'em up Arcade Game. Developed in a group jam and improved for mobile release.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://luizfelipemb.itch.io/hooked-by-huck">
-        <img src="https://github.com/user-attachments/assets/0348d9df-f76f-4dbc-afc5-0dc8723bdcd3" width="100%" alt="Hooked by Huck" />
-      </a>
-      <br />
-      <p align="center"><b><a href="https://luizfelipemb.itch.io/hooked-by-huck">Hooked by Huck (Unity C#)</a></b></p>
-      <p>2D game and companion app with a MySQL database to store and sync player info.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://luizfelipemb.itch.io/colouruzzle">
         <img src="https://img.itch.zone/aW1hZ2UvODIyMzYxLzQ2MDk0NzUucG5n/original/cKMZcu.png" width="100%" alt="Colouruzzle" />
       </a>
@@ -122,6 +104,25 @@
       <p>A 2D management strategy game created solo in 1 week during an online game jam.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">
+        <img src="IMAGE_URL" width="100%" alt="Wasteland Run" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">Wasteland Run (Play Store)</a></b></p>
+      <p>2D Shoot 'em up Arcade Game. Developed in a group jam and improved for mobile release.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/hooked-by-huck">
+        <img src="https://github.com/user-attachments/assets/0348d9df-f76f-4dbc-afc5-0dc8723bdcd3" width="100%" alt="Hooked by Huck" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/hooked-by-huck">Hooked by Huck (Unity C#)</a></b></p>
+      <p>2D game and companion app with a MySQL database to store and sync player info.</p>
+    </td>
+  </tr>
+  
 </table>
 
 ---
