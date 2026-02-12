@@ -1,17 +1,5 @@
 # Hi, I'm Luiz Felipe Bustamante 👋
-### C++ Unreal Engine Developer | Multiplayer Systems Specialist
-
-With over **7 years of experience** in game development, I specialize in **C++ programming**, **Unreal Engine 5**, and **multiplayer systems**. Currently focused on high-performance multiplayer scalability and component-based architecture.
-
----
-
-## 🛠 Skills & Languages
-* **Main Languages:** C++, C#, Lua, JavaScript/React.
-* **Game Engines:** Unreal Engine 5 & 4, Unity.
-* **DevOps & Tools:** Git (Fork), Jenkins, Nexus, SDL2, ImGui, Photon, ClickUp.
-* **Languages:** 🇵🇹 Portuguese (Native), 🇬🇧 English (Professional), 🇨🇳 Chinese (Intermediate), 🇯🇵 Japanese (Basic).
-
----
+### C++ Unreal Engine Developer
 
 ## 👨‍💻 Professional Experience
 
