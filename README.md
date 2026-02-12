@@ -1,117 +1,149 @@
-### Hi, I'm Luiz Felipe Bustamante 👋 and I'm a game developer!
+# Hi, I'm Luiz Felipe Bustamante 👋
+### C++ Unreal Engine Developer | Multiplayer Systems Specialist
 
-<details>
-  <summary>
-Education 🎓
-  </summary>
-  
-**Bachelor in Games & Apps Development** – *2018 - 2021*
-[IADE – Lisbon, Portugal](https://www.iade.europeia.pt/en/)
-- Classes were given in English.
-- Lua, C#, and C++ were the main programming languages.
-- Unity and Unreal were the main Game Engines.
+With over **7 years of experience** in game development, I specialize in **C++ programming**, **Unreal Engine 5**, and **multiplayer systems**. Currently focused on high-performance multiplayer scalability and component-based architecture.
 
-**Computer Game Applications Development** – *2021*
-[Abertay University, Dundee](https://www.abertay.ac.uk/)
-- One semester only, counted for the last semester in IADE.
-- Unreal was the engine used for the project.
-- AI classes were the main focus.
-</details>
+---
 
-<details>
-  <summary>
-Experiences 👨‍💻
-    </summary>
-  
-**Unity Developer** – *April 2022 – Present*
-[Vision Box](https://www.vision-box.com/) – Lisbon, Portugal
-- Created avatars that interact with people in various airports.
-- Worked on different projects involving Git, Automation Servers, and Server Repository Setup.
-- Developed Editor Tools to improve the development and speed of the workflow.
-- Implemented REST functionalities.
-- Conducted tests for Unreal Engine 5 migration.
-</details>
+## 🛠 Skills & Languages
+* **Main Languages:** C++, C#, Lua, JavaScript/React.
+* **Game Engines:** Unreal Engine 5 & 4, Unity.
+* **DevOps & Tools:** Git (Fork), Jenkins, Nexus, SDL2, ImGui, Photon, ClickUp.
+* **Languages:** 🇵🇹 Portuguese (Native), 🇬🇧 English (Professional), 🇨🇳 Chinese (Intermediate), 🇯🇵 Japanese (Basic).
 
-<details>
-  <summary>
-C# Unity Projects 🚀
-  </summary>
-  
-#### [Marvel Snap Like Game](https://github.com/luizfelipemb/MSnapLike)
-- *December 2023 – February 2024*
-- Unity C# Card Game where the main goal is to build a good code architecture where new game features won't break the existing code.
+---
 
-#### [Don't be Fair](https://lucasmorgado.itch.io/dontbefair)
-- A 2D strategy game. The game was done using Unity (C#) with a partner in 1 weekend during an online game jam.
+## 👨‍💻 Professional Experience
 
-#### [Dice Mage](https://lucasmorgado.itch.io/dicemage)
-- A 2D action strategy game. The game was done using Unity (C#) with a partner in 1 weekend during an online game jam.
-  
-#### [Between Us](https://luizfelipemb.itch.io/between-us)
-- Unity C# 2D Online Multiplayer Game inspired by Among Us. The game was done alone during a few months.
+### **Unity / Unreal 5 / React Developer** | [Vision Box](https://www.vision-box.com/) 
+*Lisbon, Portugal — April 2022 – Present*
 
-#### [Throwing Buildings](https://luizfelipemb.itch.io/throwing-buildings)
-- Unity C# 3D Hyper Casual Mobile Game done alone during a week. Android and Browser versions were implemented.
-  
-#### [Gari Simulator](https://luizfelipemb.itch.io/gari-simulator)
-- A 2D action strategy game. The game was done using Unity (C#) with a partner in 1 week during an online game jam.
-  
-#### [Heroes Agency](https://luizfelipemb.itch.io/heroes-agency)
-- A 2D management strategy game. The game was done using Unity (C#) alone in 1 week during an online game jam.
+* Created interactive avatars for airport environments.
+* Managed projects using **Fork**, **Nexus**, and **Jenkins** for automation and repository setup.
+* Developed custom **Editor Tools** to improve development speed and workflow.
+* Conducted technical feasibility tests for **Unreal Engine 5** migration.
 
-#### [SPYRE - Finalist of PlayStation Talents 2020](https://luizfelipemb.itch.io/spyre)
-- Unity C# 3D FPS Adventure game done with a group of one other programmer and 6 designers. GitHub was used for version control, and ClickUp for project management. FSM was used for the enemies’ behaviors.
+---
 
-#### Repairing Chaos
-- 2D game done in a group of 4 programmers in a presential GameJam in IADE using Unity (C#).
-  
-#### [Hooked by Huck](https://luizfelipemb.itch.io/hooked-by-huck)
-- 2D game and companion app done with a partner using Unity (C#) and Android Studio. MySQL was used to create a database to store the players' information and sync them between both applications.
-  
-#### [Wasteland Run - A Shoot 'em up Arcade Game!](https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun)
-- 2D game done in a group of 2 programmers and 3 designers in a presential GameJam in IADE using Unity (C#). The game was improved afterward by me and released on the Play Store.
-</details>
+## 🏆 Project Portfolio
 
-<details>
-  <summary>
-C++ Unreal Projects 🎮
-    </summary>
-  
-#### [Zombie Shooter Prototype](https://github.com/luizfelipemb/ZombieShooter-MultiplayerC-Unreal5-Source)
--  *October 2024 – February 2025*
-- Unreal 5 C++ Zombie Co-op Multiplayer Prototype done alone.
-  
-#### [Out of Nowhere](https://store.steampowered.com/app/2218620/Out_of_Nowhere/)
--  *April 2022 – February 2024*
--  Unreal 5 C++ 3D Adventure Horror game being done alone.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/luizfelipemb/ZombieShooter-MultiplayerC-Unreal5-Source">
+        <img src="IMAGE_URL" width="100%" alt="Zombie Shooter" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://github.com/luizfelipemb/ZombieShooter-MultiplayerC-Unreal5-Source">Zombie Shooter Prototype (UE5)</a></b></p>
+      <p>Unreal 5 C++ Co-op Multiplayer prototype. Focused on decoupled, component-based architecture designed for multiplayer scalability.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://store.steampowered.com/app/2218620/Out_of_Nowhere/">
+        <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2218620/ss_88c5cca9188640af888eee95ac63f496d547fd5e.1920x1080.jpg?t=1727897245" width="100%" alt="Out of Nowhere" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://store.steampowered.com/app/2218620/Out_of_Nowhere/">Out of Nowhere (Steam)</a></b></p>
+      <p>UE5 C++ 3D Adventure Horror. Implemented Lumen, Nanite, and Occlusion Culling for high graphical performance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/spyre">
+        <img src="https://img.itch.zone/aW1hZ2UvNjg2MTAzLzM3OTUwMDUucG5n/original/Ic4A02.png" width="100%" alt="SPYRE" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/spyre">SPYRE (PlayStation Talents Finalist)</a></b></p>
+      <p>Unity C# 3D FPS. Responsible for game progression, weapons, interactables, and enemies AI implementation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/luizfelipemb/MitoEngine2D">
+        <img src="https://private-user-images.githubusercontent.com/57150454/379009660-ab0abcb2-cfb2-4a31-96c2-f22f6d812db9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA5MzIwNDQsIm5iZiI6MTc3MDkzMTc0NCwicGF0aCI6Ii81NzE1MDQ1NC8zNzkwMDk2NjAtYWIwYWJjYjItY2ZiMi00YTMxLTk2YzItZjIyZjZkODEyZGI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjEyVDIxMjkwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1MWI1YmM5ZjEyMWU0NWM3ODczZjMyNmU2MWRiMDhmMDYwZDc0ZjI5ZDY0ZTVjYzRmMWIwNjRkMTNkYzAwYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WqaWM6Q_EBjAFKktAYushibJ_5tDVD7Zog-V5RdWQio" width="100%" alt="Mito Engine 2D" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://github.com/luizfelipemb/MitoEngine2D">Mito Engine 2D (Custom C++)</a></b></p>
+      <p>Game Engine built with C++, SDL2, and ImGui, featuring Lua scripting for game logic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/after-dark">
+        <img src="https://img.itch.zone/aW1nLzUzMTAyNjgucG5n/original/OkOi9z.png" width="100%" alt="After Dark" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/after-dark">After Dark (Unreal 4 C++)</a></b></p>
+      <p>3D Multiplayer Coop Game. Responsible for all multiplayer aspects: player movement, world interactables, and enemy behaviors.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/between-us">
+        <img src="https://img.itch.zone/aW1hZ2UvMTQxMzI0Mi84MjQwNTQ3LnBuZw==/original/fEJ4kk.png" width="100%" alt="Between Us" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/between-us">Between Us (Unity C#)</a></b></p>
+      <p>2D Online Multiplayer Game inspired by "Among Us". Photon was used for the multiplayer, supporting up to 8 players.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/luizfelipemb/MSnapLike">
+        <img src="https://private-user-images.githubusercontent.com/57150454/297176281-7d40bf23-b8cb-4f6f-9be3-bc503dd75c14.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA5MzE4MTUsIm5iZiI6MTc3MDkzMTUxNSwicGF0aCI6Ii81NzE1MDQ1NC8yOTcxNzYyODEtN2Q0MGJmMjMtYjhjYi00ZjZmLTliZTMtYmM1MDNkZDc1YzE0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjEyVDIxMjUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0ZGFhYmEwOWFjY2YyYTA5MjAwMjI4NmM4ZDY3ZWRkMzZlYzNkYzg2MjgzOWIzNDQ0MWRlNDdlYmM5ZTdkY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tRTIO2GMXm2ZuBmqea-ULyHof3rXQ0N30Pw67PO6uro" width="100%" alt="Marvel Snap Like" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://github.com/luizfelipemb/MSnapLike">Marvel Snap Like Game</a></b></p>
+      <p>Unity C# Card Game focused on robust architecture where new features don't break existing code.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="IMAGE_URL" width="100%" alt="Runnin' Hot" />
+      <br />
+      <p align="center"><b>Runnin' Hot (Unreal 4 C++)</b></p>
+      <p>Fast-paced action platformer with parkouring elements. Developed in a 7-person team over 4 months.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">
+        <img src="IMAGE_URL" width="100%" alt="Wasteland Run" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">Wasteland Run (Play Store)</a></b></p>
+      <p>2D Shoot 'em up Arcade Game. Developed in a group jam and improved for mobile release.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/hooked-by-huck">
+        <img src="IMAGE_URL" width="100%" alt="Hooked by Huck" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/hooked-by-huck">Hooked by Huck (Unity C#)</a></b></p>
+      <p>2D game and companion app with a MySQL database to store and sync player info.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/colouruzzle">
+        <img src="https://img.itch.zone/aW1hZ2UvODIyMzYxLzQ2MDk0NzUucG5n/original/cKMZcu.png" width="100%" alt="Colouruzzle" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/colouruzzle">Colouruzzle (Unreal C++)</a></b></p>
+      <p>3D puzzle platformer shooter game made for the online Mix And Game Jam 2020.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://luizfelipemb.itch.io/heroes-agency">
+        <img src="https://img.itch.zone/aW1hZ2UvMTEzMjYwMS82NTY4OTM2LnBuZw==/original/Jd1Kyg.png" width="100%" alt="Heroes Agency" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://luizfelipemb.itch.io/heroes-agency">Heroes Agency (Unity C#)</a></b></p>
+      <p>A 2D management strategy game created solo in 1 week during an online game jam.</p>
+    </td>
+  </tr>
+</table>
 
-#### Runnin'Hot
-- A fast-paced action platformer with parkouring elements done in Unreal (C++). The game was done in a group of other 2 programmers, 4 designers, and a sound producer during 4 months. Github was used for version control and ClickUp for project management.
+---
 
-#### [After Dark](https://luizfelipemb.itch.io/after-dark)
-- Online Multiplayer Coop Horror 3D game done in Unreal (C++) with a partner for 4 months. The game was updated later to add more features and fix bugs. Github was used for version control.
+## 🎓 Education
 
-#### [Colouruzzle](https://luizfelipemb.itch.io/colouruzzle)
-- 3D puzzle platformer shooter game made for the online Mix And Game Jam 2020. The game was done in Unreal (C++) in a group of 4 programmers.
-</details>
+* **Bachelor in Games & Apps Development** – [IADE – Lisbon, Portugal](https://www.iade.europeia.pt/en/) (2018 - 2021).
+* **Computer Game Applications Development** – [Abertay University, Dundee](https://www.abertay.ac.uk/) (2021). Focused on **AI classes** and Unreal Engine projects.
 
-<details>
-  <summary>
-Other Projects 🎮
-  </summary>
-  
-#### [Mito Engine 2D](https://github.com/luizfelipemb/MitoEngine2D)
-- C++ SDL Game Engine
- 
-#### [Ores SDL](https://github.com/luizfelipemb/OresSDL)
-- C++ SDL Ores Game
- 
-#### Artistic Green
-- Management Game done in 4 months with a partner using JavaScript, HTML, CSS, and MySQL database to work.
+---
 
-#### Viking's Glory
-- 2D Arcade Style Game done alone using LÖVE framework in Lua in 4 months.
-
-</details>
-
-
+📫 **Let's Connect!**
+[Email Me](mailto:luizfmb@proton.me) | [Itch.io](https://fazedordejogos.itch.io/) | [LinkedIn](https://www.linkedin.com/in/luizfelipemb/) | [GitHub](https://github.com/luizfelipemb)
