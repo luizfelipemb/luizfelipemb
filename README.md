@@ -70,6 +70,26 @@
       <p>2D Online Multiplayer Game inspired by "Among Us". Photon was used for the multiplayer, supporting up to 8 players.</p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://fazedordejogos.itch.io/ores">
+        <img src="https://img.itch.zone/aW1hZ2UvMjcyMTY5Mi8xNjIyODExOC5wbmc=/original/UgXydI.png" width="100%" alt="Ores Game" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://fazedordejogos.itch.io/ores">Ores Game</a></b></p>
+      <p>2D game done using SDL2 library and C++ language.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://fazedordejogos.itch.io/jewels-game">
+        <img src="https://img.itch.zone/aW1hZ2UvMTIwMzY0Mi83MDIyODYyLnBuZw==/original/hVKNdT.png" width="100%" alt="Jewels Game" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://fazedordejogos.itch.io/jewels-game">Jewels Game</a></b></p>
+      <p>2D game done using SDL2 library and C++ language.</p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/luizfelipemb/MSnapLike">
@@ -104,6 +124,45 @@
       <p>A 2D management strategy game created solo in 1 week during an online game jam.</p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://lucasmorgado.itch.io/dontbefair">
+        <img src="https://img.itch.zone/aW1hZ2UvMjE2MDQwOS8xMjczNDU3Mi5wbmc=/original/HJmReh.png" width="100%" alt="Don't be fair" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://lucasmorgado.itch.io/dontbefair">Don't be fair</a></b></p>
+      <p>2D Unity C# game done with another programmer during a weekend</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://lucasmorgado.itch.io/dicemage">
+        <img src="https://img.itch.zone/aW1hZ2UvMTYyMjA5NC85NTM3MjM0LnBuZw==/original/l7As64.png" width="100%" alt="Dice Mage" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://lucasmorgado.itch.io/dicemage">Dice Mage</a></b></p>
+      <p>2D Unity C# game done with another programmer during a weekend</p>
+    </td>
+  </tr>
+
+<tr>
+    <td width="50%" valign="top">
+      <a href="https://fazedordejogos.itch.io/throwing-buildings">
+        <img src="https://img.itch.zone/aW1hZ2UvMTI1OTE0My83MzM3Mzc0LnBuZw==/original/FnGle%2F.png" width="100%" alt="Throwing Buildings" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://fazedordejogos.itch.io/throwing-buildings">Throwing Buildings</a></b></p>
+      <p>2D Unity C# hypercasual game done alone during a week</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://fazedordejogos.itch.io/gari-simulator">
+        <img src="https://img.itch.zone/aW1hZ2UvMTE0Mjk2My82NjQ3NjI1LmpwZw==/original/1lcgzP.jpg" width="100%" alt="Gari Simulator" />
+      </a>
+      <br />
+      <p align="center"><b><a href="https://fazedordejogos.itch.io/gari-simulator">Gari Simulator</a></b></p>
+      <p>2D Unity C# game done with another programmer during a week</p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.TheFunGuyNetwork.WastelandRun">
